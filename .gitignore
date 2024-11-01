@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Django
+*.log
+*.pot
+*.pyc
+*.sqlite3
+__pycache__/
+db.sqlite3
+media/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
